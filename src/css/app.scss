@@ -1,0 +1,22 @@
+// app global css in SCSS form
+.text-center {
+    text-align: center;
+    
+}
+.form-title {
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px;
+    font-size: 15px;
+}
+.subheader-label {
+    position: fixed;
+    background: #FFF;
+    z-index: 1;
+    width: 100%;
+    // margin-left: -15px;
+    // padding-top: 15px;
+    // margin-top: -15px;
+    // padding-bottom: 15px;
+    // padding-left: 15px;
+}
